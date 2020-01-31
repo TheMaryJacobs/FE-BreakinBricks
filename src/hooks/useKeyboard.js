@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { useEffect , handleKeyPress } from "react";
 
 export default function useKeyboard(cb) {
   function handleKeyPress(e) {

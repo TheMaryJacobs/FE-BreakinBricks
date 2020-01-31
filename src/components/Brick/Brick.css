@@ -1,6 +1,9 @@
 .brick {
   position: absolute;
-  background: salmon;
+  background: hsla(0, 0%, 0%, 0.66);
   border-radius: 4px;
-  border: 1px solid #333;
+  border-top: 1px solid #333;
+  border-right: 1px solid #333;
+  border-bottom: 1px solid rgb(0, 0, 0);
+  border-left: 1px solid rgb(0, 0, 0);
 }

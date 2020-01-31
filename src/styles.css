@@ -1,7 +1,11 @@
 .container {
-  background-color: #66339922;
-  border: 2px solid rebeccapurple;
+  /* background-color: #66339922;
+  border: 2px solid rebeccapurple; */
   border-radius: 4px;
   margin: 20px auto;
   position: relative;
+  background-image: url(https://cdn.spacetelescope.org/archives/images/screen/heic1118a.jpg);
+  background-position: center;
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 24px;
 }
